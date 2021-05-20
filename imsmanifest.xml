@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5eDLO3neh6e_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">IDT7160P3</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Physics Gifs</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="IDT7160P3_ORG">
+    <organization identifier="IDT7160P3_ORG">
+      <title>IDT7160P3</title>
+      <item identifier="IDT7160P3_SCO" isvisible="true" identifierref="__5eDLO3neh6e_course_id_RES">
+        <title>IDT7160P3</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5eDLO3neh6e_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6EChcZuzsl2_22_48_452x254.mp4" />
+      <file href="mobile/poster_5uKCnIeB8K9_video_6EChcZuzsl2_22_48_452x254.jpg" />
+      <file href="mobile/6ChPdnyDNvX_80_DX76_DY76_CX46_CY59.png" />
+      <file href="mobile/653pDxpfvux_80_B13_C-7_DX1440_DY1440_CX849_CY849.jpg" />
+      <file href="mobile/5rImU0swhpz_80_DX80_DY80_CX51_CY62.png" />
+      <file href="story_content/video_6rjm3DFFXkQ_22_48_376x212.mp4" />
+      <file href="mobile/poster_5sZZI0HxcZH_video_6rjm3DFFXkQ_22_48_376x212.jpg" />
+      <file href="story_content/video_6HeaS8Ywb8r_22_48_376x212.mp4" />
+      <file href="mobile/poster_6HP6QKdQHoj_video_6HeaS8Ywb8r_22_48_376x212.jpg" />
+      <file href="story_content/video_6Y2PkAAewL2_22_48_376x212.mp4" />
+      <file href="mobile/poster_6JD59NkbPkx_video_6Y2PkAAewL2_22_48_376x212.jpg" />
+      <file href="story_content/video_6jXzOSEp9wy_22_48_376x212.mp4" />
+      <file href="mobile/poster_6RaBAYXImn7_video_6jXzOSEp9wy_22_48_376x212.jpg" />
+      <file href="story_content/video_6kxhVvSzdcg_22_48_376x212.mp4" />
+      <file href="mobile/poster_6faFryATcWX_video_6kxhVvSzdcg_22_48_376x212.jpg" />
+      <file href="story_content/5xAu2ZBmHPn.html" />
+      <file href="mobile/5xAu2ZBmHPn5qpoDTKog43{Width=502.1219, Height=282.6429}Light_80_DX1004_DY1004_CX502_CY283.jpg" />
+      <file href="story_content/video_6EChcZuzsl2_22_48_484x272.mp4" />
+      <file href="mobile/poster_6nlHKzALcF3_video_6EChcZuzsl2_22_48_484x272.jpg" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dNAm8RfQXv.js" />
+      <file href="html5/data/js/5e4kIBTXXUH.js" />
+      <file href="html5/data/js/5jXFZ6F5CVD.js" />
+      <file href="html5/data/js/5WyYXfoW1Rb.js" />
+      <file href="html5/data/js/61rb2mlZi3Q.js" />
+      <file href="html5/data/js/6a65fWexiw5.js" />
+      <file href="html5/data/js/6cuUGwBAyxg.js" />
+      <file href="html5/data/js/6i8QIwzjD8y.js" />
+      <file href="html5/data/js/6mOkh7bSrRZ.js" />
+      <file href="html5/data/js/6N0f9BrmZbE.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
